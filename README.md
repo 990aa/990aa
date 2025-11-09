@@ -157,7 +157,3 @@ I **architect machine learning pipelines** and **cross-platform applications**. 
 </p>
 
 ---
-<div align="center">
-**📍 Indian Institute of Technology Madras | 🇮🇳 India**
-
-</div>
