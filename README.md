@@ -1,6 +1,6 @@
 <div align="center">
 
-### Machine Learning Engineer | Cross-Platform Developer
+### Machine Learning Engineer | Data Scientist | Cross-Platform Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/990aa?style=social)](https://github.com/990aa)
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)](https://huggingface.co/a-01a)
